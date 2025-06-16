@@ -1,4 +1,4 @@
-<p align="left" style="max-width:600px; margin:auto; line-height:1.5;">
+<p align="left" style="line-height:1.5;">
   <strong style="font-family:Courier New">Moontae Lee</strong><br>
   <br>
   Senior Research Fellow · Superintelligence Lab · LG AI Research<br>
