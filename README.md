@@ -1,58 +1,19 @@
-<!-- ECM-INSPIRED MINIMALIST PERSONAL PAGE -->
+<!-- Center everything visually using HTML (works in GitHub Markdown) -->
 
-<div align="center">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/ECM_logo.png" width="120" alt="ECM Style Logo">
+</p>
 
-# MOONTAE LEE
+<h1 align="center" style="font-size:3rem; font-weight:400; letter-spacing:0.04em;">
+  <span style="letter-spacing:0.1em;">Moontae Lee</span>
+</h1>
 
----
+<p align="center" style="font-size:1.1rem; color:#888; letter-spacing:0.02em;">
+  <em>AI | Research | Silence | Structure</em>
+</p>
 
-ASSISTANT PROFESSOR  
-INFORMATION AND DECISION SCIENCES  
-UNIVERSITY OF ILLINOIS CHICAGO  
-DIRECTOR, SUPERINTELLIGENCE LAB, LG AI RESEARCH
+<br/>
 
----
-
-</div>
-
-<div align="center">
-
-### *AI RESEARCH · REASONING MODELS · OPEN SCIENCE*
-
-</div>
-
----
-
-<div align="center">
-
-[CV — Download PDF](https://YOUR-LINK-HERE.com/moontae-lee-cv.pdf)  
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-[Google Scholar](https://scholar.google.com/citations?user=YOUR-ID-HERE)  
-[Homepage](https://YOUR-HOMEPAGE-HERE.com)
-
-</div>
-
----
-
-## ABOUT
-
-<div align="center">
-
-Moontae Lee is an Assistant Professor at the University of Illinois Chicago and Director of the Superintelligence Lab at LG AI Research. His work focuses on the next generation of large language models, reasoning algorithms, and the intersection of AI and open science. Previously a visiting scholar at Microsoft Research, his research bridges academic discovery and industrial innovation.
-
-</div>
-
----
-
-## CONTACT
-
-<div align="center">
-
-moontae.lee [at] uic.edu
-
-</div>
-
----
-
-<!-- (Optional) No profile picture, no emojis, no icons — pure text and whitespace. -->
-
+<p align="center">
+  <a href="https://your-cv-link.com">
+    <img src="https://img.shields.io/badge/Download%20CV-black?style=for-the-badge&logo=ghost&logoColor=white&labelColor=222" alt="Download CV
