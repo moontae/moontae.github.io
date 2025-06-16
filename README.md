@@ -18,7 +18,7 @@
 <p align="left" style="line-height:1.5; font-family:Courier New">
   <strong>ME</strong><br>
   <br>
-    <a href="./Moontae Lee - CV (2025).pdf" style="text-decoration:none; color:#444;">Download CV</a><br>
+    <a href="./Moontae Lee - CV (2025).pdf" style="text-decoration:none; color:#444444;">Download CV</a><br>
     Industry E-mail: moontae.lee@lgresearch.ai<br>
     School E-mail: moontae@uic.edu<br>
     <br>  
