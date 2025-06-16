@@ -3,6 +3,7 @@
   <br>
   Senior Research Fellow · Superintelligence Lab · LG AI Research<br>
   Assistant Professor · Information and Decision Sciences · University of Illinois Chicago<br>
+  <br>
 </p>
 
 <p align="left" style="line-height:1.5; font-family:Courier New">
