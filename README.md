@@ -1,53 +1,58 @@
-<p align="center" style="max-width:600px; margin:auto; line-height:1.5;">
-  <strong style="font-size:1.75rem;">Moontae Lee</strong><br>
-  Assistant Professor · AI Researcher · Director, Superintelligence Lab
-</p>
+<!-- ECM-INSPIRED MINIMALIST PERSONAL PAGE -->
 
-<p align="center" style="margin-top:1rem;">
-  <a href="./Moontae_Lee_CV.pdf" style="text-decoration:none; color:#444;">
-    📄 Download CV (PDF)
-  </a>
-</p>
+<div align="center">
+
+# MOONTAE LEE
 
 ---
 
-<p style="max-width:600px; margin:auto; line-height:1.6;">
-Moontae Lee's work weaves **AI, causal inference, and reasoning models** into systems that are human-aligned and reflective. His roles include Assistant Professor at UIC, Director at LG’s Superintelligence Lab, and former Visiting Scholar at Microsoft Research.
-</p>
+ASSISTANT PROFESSOR  
+INFORMATION AND DECISION SCIENCES  
+UNIVERSITY OF ILLINOIS CHICAGO  
+DIRECTOR, SUPERINTELLIGENCE LAB, LG AI RESEARCH
 
 ---
 
-### Experience
+</div>
 
-- **Assistant Professor**, Information & Decision Sciences, University of Illinois Chicago  
-- **Director**, Superintelligence Lab, LG AI Research  
-- **Visiting Scholar**, Microsoft Research
+<div align="center">
 
----
+### *AI RESEARCH · REASONING MODELS · OPEN SCIENCE*
 
-### Research & Achievements
-
-- 🥇 *NAACL 2025 Best Paper Award* – *BiGGen Bench*  
-- 🛠 Developed **Prometheus‑2**, an open-source LLM evaluation tool  
-- 📚 Multiple publications in top-tier AI venues
+</div>
 
 ---
 
-### Skills & Focus
+<div align="center">
 
-`Large Language Models` · `Causal Inference` · `Benchmarking & Evaluation`  
-`AI Safety & Alignment` · `Generative Reasoning` · `Planning`
+[CV — Download PDF](https://YOUR-LINK-HERE.com/moontae-lee-cv.pdf)  
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+[Google Scholar](https://scholar.google.com/citations?user=YOUR-ID-HERE)  
+[Homepage](https://YOUR-HOMEPAGE-HERE.com)
 
----
-
-### Vision
-
-> *“Empowering intelligent technologies with clarity, humanity, and responsibility.”*
+</div>
 
 ---
 
-<p align="center" style="margin-top:2rem;">
-  <a href="./Moontae_Lee_CV.pdf" style="font-weight:bold; font-size:1.1rem; color:#222;">
-    📄 Download Full CV
-  </a>
-</p>
+## ABOUT
+
+<div align="center">
+
+Moontae Lee is an Assistant Professor at the University of Illinois Chicago and Director of the Superintelligence Lab at LG AI Research. His work focuses on the next generation of large language models, reasoning algorithms, and the intersection of AI and open science. Previously a visiting scholar at Microsoft Research, his research bridges academic discovery and industrial innovation.
+
+</div>
+
+---
+
+## CONTACT
+
+<div align="center">
+
+moontae.lee [at] uic.edu
+
+</div>
+
+---
+
+<!-- (Optional) No profile picture, no emojis, no icons — pure text and whitespace. -->
+
