@@ -5,9 +5,12 @@
   Assistant Professor · Information and Decision Sciences · University of Illinois Chicago<br>
 </p>
 
-<p align="left" style="margin-top:1rem;">
+<p align="left" style="margin-top:1rem; ont-family:Courier New">
   <a href="./Moontae Lee - CV (2025).pdf" style="text-decoration:none; color:#444;">
-      <strong style="font-family:Courier New">Download CV (PDF)</strong><br>
+      <strong>Download CV</strong><br>
+      <br>
+      Industry E-mail: moontae.lee@lgresearch.ai<br>
+      School E-mail: moontae@uic.edu<br>
   </a>
 </p>
 
