@@ -1,7 +1,7 @@
 <p align="left" style="line-height:1.5; font-family:Courier New">
   <strong>MOONTAE LEE</strong><br>
   <br>
-  Senior Research Fellow · Superintelligence Lab · LG AI Research<br>
+  Vice President · Head of Superintelligence Lab · LG AI Research<br>
   Assistant Professor · Information and Decision Sciences · University of Illinois Chicago<br>
   <br>
 </p>
@@ -17,9 +17,9 @@
 <p align="left" style="line-height:1.5; font-family:Courier New">
   <strong>INTEREST</strong><br>
   <br>
-  Language Models · Data Generation/Evaluation · Reasoning · Alignment<br>
-  Foundation Models · Multimodal Time-series · Creativity/Awareness · Machine Unlearning<br>
-  World Models · Counterfactual Evaluation · Causal Inference · Multi-agent Simulation<br>
+  [Domain Agents] · Data Generation/Evaluation · Model Post-Training/Benchmarking · Environment Designs/Orchestator RL · System Assessment <br>
+  [Domain Retrieval] Multi-conditioned, Multi-hop, Multimodal Retrieval · Search Context Optimization · Memory Management · Structure Induction<br>
+  [Scaling] Data Scaling · Multi-agent Scaling · Self-Improving · Computational Creativity · Algorithmic Awareness<br>
   <br>
 </p>
 
