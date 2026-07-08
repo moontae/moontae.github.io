@@ -17,9 +17,9 @@
 <p align="left" style="line-height:1.5; font-family:Courier New">
   <strong>INTEREST</strong><br>
   <br>
-  Domain Agents -- Data Generation/Evaluation · Model Post-Training/Benchmarking · Environment Designs/Orchestator RL · System QA<br>
-  Domain Retrieval -- Multi-conditioned, Multi-hop, Multimodal Retrieval · Agentic Search · Context Optimization · Memory Management<br>
-  Scaling -- Data Pipelining · Autoresearch · Multi-agent Modeling · Self-Improving · Computational Creativity · Algorithmic Awareness<br>
+  Domain Agents :: Data Generation/Evaluation · Model Post-Training/Benchmarking · Environment Designs/Orchestator RL · System QA<br>
+  Domain Retrieval :: Multi-conditioned, Multi-hop, Multimodal Retrieval · Agentic Search · Context Optimization · Memory Management<br>
+  Scaling :: Data Pipelining · Autoresearch · Multi-agent Modeling · Self-Improving · Computational Creativity · Algorithmic Awareness<br>
   <br>
 </p>
 
