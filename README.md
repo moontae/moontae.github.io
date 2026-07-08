@@ -17,7 +17,7 @@
 <p align="left" style="line-height:1.5; font-family:Courier New">
   <strong>INTEREST</strong><br>
   <br>
-  Domain Agents - · Data Generation/Evaluation · Model Post-Training/Benchmarking · Environment Designs/Orchestator RL · System Assessment <br>
+  Domain Agents · Data Generation/Evaluation · Model Post-Training/Benchmarking · Environment Designs/Orchestator RL · System QA<br>
   [Domain Retrieval] Multi-conditioned, Multi-hop, Multimodal Retrieval · Search Context Optimization · Memory Management · Structure Induction<br>
   [Scaling] Data Scaling · Multi-agent Scaling · Self-Improving · Computational Creativity · Algorithmic Awareness<br>
   <br>
