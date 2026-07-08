@@ -19,7 +19,7 @@
   <br>
   <u>Domain Agents</u> · Data Generation/Evaluation · Model Post-Training/Benchmarking · Environment Designs/Orchestator RL · System QA<br>
   Domain Retrieval · Multi-conditioned, Multi-hop, Multimodal Retrieval · Agentic Search · Context Optimization · Memory Management<br>
-  Scaling · Data Scaling · Autoresearch · Multi-agent Scaling · Self-Improving · Computational Creativity · Algorithmic Awareness<br>
+  Scaling · Data Pipelining · Autoresearch · Multi-agent Modeling · Self-Improving · Computational Creativity · Algorithmic Awareness<br>
   <br>
 </p>
 
