@@ -17,8 +17,8 @@
 <p align="left" style="line-height:1.5; font-family:Courier New">
   <strong>INTEREST</strong><br>
   <br>
-  Domain Scaling :: Data Generation/Evaluation · Model Post-Training/Benchmarking · Harness Designs/Orchesrator RL<br>
-  Agentic Retrieval :: Multi-conditioned, Multi-hop, Multimodal Retrieval · Agentic Search · Context/Memory Optimization<br>
+  Domain Scaling :: Data Generation/Evaluation · Post-Training/Benchmarking · Harness Designs/Orchesrator RL<br>
+  Agentic Retrieval :: Multi-conditioned, Multi-hop, Multimodal Retrieval · Search-to-Discover · Context/Memory Optimization<br>
   Self-Improving Discovery :: Multi-agent Coordination · Recursive Runtime · Computational Creativity · Algorithmic Awareness<br>
   <br>
 </p>
